@@ -1,0 +1,52 @@
+    1  cd
+    2  cd
+    3  ~cd
+    4  ~cd
+    5  ~cd~
+    6  cd
+    7  cd~
+    8  tree
+    9  ls
+   10  cd~
+   11  tree
+   12  cd
+   13  cd~
+   14  cd program
+   15  pwd
+   16  cd
+   17  cd ../..
+   18  cd~
+   19  tree
+   20  cd ../.. tree
+   21  cd/
+   22  cd:
+   23  cd ../..
+   24  tree
+   25  shell/
+   26  shell/
+   27  shell /
+   28  tree
+   29  cd ../..
+   30  tree
+   31  cd ..
+   32  cd 
+   33  pwd
+   34  cd .. --hellp
+   35  git clone url_of_the_new_repository wild-tac
+   36  git clone git@github.com:CHEKKIRMAHMOUD/wild-project.git
+   37  git clone git@github.com:CHEKKIRMAHMOUD/wild-project.git
+   38  ls -al ~/.ssh
+   39  ssh-keygen -t rsa -b 4096 -C "mahmoudxchekkir@gmail.com"
+   40  eval "$(ssh-agent -s)"
+   41  ssh-add ~/.ssh/id_rsa
+   42  cat ~/.ssh/id_rsa.pub
+   43  ssh -T git@github.com
+   44  ssh -T git@github.com
+   45  ls -al ~/.ssh
+   46  ssh-keygen -t rsa -b 4096 -C "mahmoudxchekkir@gmail.com"
+   47  eval "$(ssh-agent -s)"
+   48  ssh-add ~/.ssh/id_rsa
+   49  cat ~/.ssh/id_rsa.pub
+   50  history .txt 
+   51  history
+   52  history > toot.txt
